@@ -1,2 +1,0 @@
-config SHIELD_NUMPAD_V1
-    def_bool $(sheilds_list_contains, numpad_v1)
